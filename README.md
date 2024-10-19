@@ -22,6 +22,7 @@ Silhoutte
 ![silhoutte](https://github.com/user-attachments/assets/b1204786-311b-4890-bf20-4dff4eaf7645)
 
 Table:
+Values have been extracted using various processing techniques like , no data processing, nomralization, transformation, PCA, normalization and transformation , and normalization,transformation and PCA.
 ![kmeans](https://github.com/user-attachments/assets/dab06892-8de2-4896-b737-37281f7d93c1)
 
 Conclusion:
@@ -34,6 +35,7 @@ Approach: The Mean Shift algorithm is a non-parametric clustering method that do
 Evaluation: The number of clusters is determined automatically by the algorithm based on the data distribution.
 
 Table:
+Values have been extracted using various processing techniques like , no data processing, nomralization, transformation, PCA, normalization and transformation , and normalization,transformation and PCA.
 ![meanshift](https://github.com/user-attachments/assets/c49c425a-e9a3-41ad-9b0f-2a487e4fcd91)
 
 # Hierarchical Clustering 
@@ -43,6 +45,7 @@ Approach: Hierarchical clustering builds a tree-like structure of nested cluster
 Evaluation: The silhouette score is used to assess the quality of clusters based on the cohesion and separation of samples.
 
 Table:
+Values have been extracted using various processing techniques like , no data processing, nomralization, transformation, PCA, normalization and transformation , and normalization,transformation and PCA.
 ![hclust](https://github.com/user-attachments/assets/fb19c959-6312-4307-9c74-e4a435a22d3b)
 
 # Conclusion
