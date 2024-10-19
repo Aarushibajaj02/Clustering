@@ -51,5 +51,7 @@ Values have been extracted using various processing techniques like , no data pr
 # Conclusion
 *K-Means effectively clustered the Iris data into three distinct groups, with results closely aligning with the true species labels.
 *Mean Shift offered a more flexible clustering approach and found a different number of clusters based on the data density, which could be useful for non-standard datasets.
+
 *Hierarchical Clustering provided insight into the nested relationships between clusters
+
 *Each algorithm has its strengths and weaknesses, with K-Means being quick and intuitive, Mean Shift providing flexibility, and Hierarchical Clustering giving a deeper understanding of cluster structure.
